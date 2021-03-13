@@ -1,0 +1,60 @@
+{
+  "name": "Miluju svojí práci",
+  "shortName": "lakatos",
+  "description": "Nebudu to dělat!",
+  "author": "AquaSoup",
+  "url": "https://aquasoup.com",
+  "color": "#087f23",
+  "version": "1.0.0",
+  "rootUrl": "/sounds/",
+  "tiles": [
+    {
+      "name": "Abych mohl toto",
+      "filename": "abych-mohl-toto.mp3"
+    },
+    {
+      "name": "Ani očko nenasadíš",
+      "filename": "ani-ocko-nenasadis.mp3"
+    },
+    {
+      "name": "Ani za kokot",
+      "filename": "ani-za-kokot-vole.mp3"
+    },
+    {
+      "name": "Banální věc",
+      "filename": "banalni-vec.mp3"
+    },
+    {
+      "name": "Do piče",
+      "filename": "do-pice.mp3"
+    },
+    {
+      "name": "Hajzli jedni",
+      "filename": "hajzli-jedni.mp3"
+    },
+    {
+      "name": "Hoši, to je neuvěřitelné",
+      "filename": "hosi-to-je-neuveritelne.mp3"
+    },
+    {
+      "name": "Já se z toho musím pojebat",
+      "filename": "ja-se-z-toho-musim-pojebat.mp3"
+    },
+    {
+      "name": "Já to mrdám",
+      "filename": "ja-to-mrdam.mp3"
+    },
+    {
+      "name": "Já to nejdu dělat!",
+      "filename": "ja-to-nejdu-delat.mp3"
+    },
+    {
+      "name": "Jedinou pičovinku!",
+      "filename": "jedinou-picovinku.mp3"
+    },
+    {
+      "name": "Jedu do piči stadyma",
+      "filename": "jedu-do-pici-stadyma.mp3"
+    }
+  ]
+}

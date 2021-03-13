@@ -1,2 +1,3 @@
-# soundboard-lakatos
+# Soundboard plugin: Lakatos
+
 First plugin for soundboard app [experimental]
