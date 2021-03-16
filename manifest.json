@@ -6,7 +6,7 @@
   "url": "https://aquasoup.com",
   "color": "#087f23",
   "version": "1.0.0",
-  "rootUrl": "/sounds/",
+  "rootUrl": "sounds/",
   "tiles": [
     {
       "name": "Abych mohl toto",
