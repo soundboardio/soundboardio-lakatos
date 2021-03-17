@@ -4,9 +4,22 @@
   "description": "Nebudu to dělat!",
   "author": "AquaSoup",
   "url": "https://aquasoup.com",
-  "color": "#087f23",
+  "color": "#0077c2",
   "version": "1.0.0",
   "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "48x48",
+      "purpose": "maskable any",
+      "type": "image/svg"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
   "tiles": [
     {
       "name": "Abych mohl toto",
@@ -55,6 +68,78 @@
     {
       "name": "Jedu do piči stadyma",
       "filename": "jedu-do-pici-stadyma.mp3"
+    },
+    {
+      "name": "To neni možné",
+      "filename": "kurva-do-pice-to-neni-mozne.mp3"
+    },
+    {
+      "name": "Kurva už",
+      "filename": "kurva-uz.mp3"
+    },
+    {
+      "name": "Kurva",
+      "filename": "kurva.mp3"
+    },
+    {
+      "name": "Ne, nenasadíš ho",
+      "filename": "ne-nenasadis-ho.mp3"
+    },
+    {
+      "name": "Nebudu to dělat",
+      "filename": "nebudu-to-delat.mp3"
+    },
+    {
+      "name": "Největší blbec na zeměkouli",
+      "filename": "nejvetsi-blbec-na-zemekouli.mp3"
+    },
+    {
+      "name": "Nenasadim",
+      "filename": "nenasadim.mp3"
+    },
+    {
+      "name": "Neřešitelný problém, hoši",
+      "filename": "neresitelny-problem-hosi.mp3"
+    },
+    {
+      "name": "Nevím jak",
+      "filename": "nevim-jak.mp3"
+    },
+    {
+      "name": "Okamžitě zabít",
+      "filename": "okamzite-zabit-ty-kurvy.mp3"
+    },
+    {
+      "name": "Past vedle pasti",
+      "filename": "past-vedle-pasti-pico.mp3"
+    },
+    {
+      "name": "Počkej, kámo",
+      "filename": "pockej-kamo.mp3"
+    },
+    {
+      "name": "Tady musíš všechno rozdělat",
+      "filename": "tady-musis-vsechno-rozdelat.mp3"
+    },
+    {
+      "name": "To je pičo nemožné",
+      "filename": "to-je-pico-nemozne.mp3"
+    },
+    {
+      "name": "To není normální, kurva",
+      "filename": "to-neni-normalni-kurva.mp3"
+    },
+    {
+      "name": "To sou nervy, ty pičo",
+      "filename": "to-sou-nervy-ty-pico.mp3"
+    },
+    {
+      "name": "Tuto piču potřebuju utáhnout",
+      "filename": "tuto-picu-potrebuju-utahnout.mp3"
+    },
+    {
+      "name": "Zasrané, zamrdané",
+      "filename": "zasrane-zamrdane.mp3"
     }
   ]
 }
