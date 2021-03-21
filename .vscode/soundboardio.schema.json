@@ -1,0 +1,94 @@
+{
+  "title": "SoundBoardio Plugin",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "name",
+    "description",
+    "author",
+    "color",
+    "version",
+    "lang",
+    "rootUrl",
+    "tiles"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Sound Board name"
+    },
+    "shortName": {
+      "type": "string",
+      "description": "Usually used in webmanifest for installable apps"
+    },
+    "description": {
+      "type": "string",
+      "description": "Sound Board description"
+    },
+    "author": {
+      "type": "object",
+      "description": "Info about Author",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Name of author (will be visible on board)"
+        },
+        "url": {
+          "type": "string",
+          "description": "Author's url (will be visible on board)"
+        }
+      }
+    },
+    "lang": {
+      "type": "string",
+      "description": "Default language for your Sound Board (in ISO 639-1). Leave empty if there is no default language"
+    },
+    "color": {
+      "type": "string",
+      "description": "Main tile color on homepage"
+    },
+    "version": {
+      "type": "string",
+      "description": "Version of your Sound Board"
+    },
+    "rootUrl": {
+      "type": "string",
+      "description": "Main url (or prefix) where your sounds are stored. Can be absolute url (outside github) or relative (sounds are in your github repository)"
+    },
+    "tiles": {
+      "type": "array",
+      "description": "Your sounds are here",
+      "items": {
+        "$ref": "#/definitions/tile"
+      }
+    },
+    "icons": {
+      "type": "array",
+      "description": "Main icons. Based on webmanifest specs",
+      "items": {
+        "$ref": "https://json.schemastore.org/web-manifest#/definitions/manifest_image_resource"
+      }
+    }
+  },
+  "definitions": {
+    "tile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name", "filename"],
+      "properties": {
+        "name": {
+          "$ref": "#/definitions/nonEmptyString",
+          "description": "Tile title. Will be visible on tile."
+        },
+        "filename": {
+          "$ref": "#/definitions/nonEmptyString",
+          "description": "Tile url. Can be relative or absolute. Check property rootUrl too."
+        }
+      }
+    },
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}
