@@ -2,10 +2,13 @@
   "name": "Miluju svojí práci",
   "shortName": "lakatos",
   "description": "Nebudu to dělat!",
-  "author": "AquaSoup",
-  "url": "https://aquasoup.com",
+  "author": {
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
+  },
   "color": "#0077c2",
   "version": "1.0.0",
+  "lang": "cs",
   "rootUrl": "sounds/",
   "icons": [
     {
