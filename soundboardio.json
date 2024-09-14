@@ -18,6 +18,11 @@
   "rootUrl": "sounds/",
   "icons": [
     {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpg"
+    },
+    {
       "src": "/icons/icon.svg",
       "sizes": "48x48",
       "purpose": "maskable any",
