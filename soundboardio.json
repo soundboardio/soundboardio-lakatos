@@ -1,7 +1,7 @@
 {
   "name": "Miluju svojí práci",
   "shortName": "Lakatoš",
-  "description": "Nebudu to dělat!",
+  "description": "Oprava lakatoše",
   "story": [
     "Video z roku 2010 zachycuje strasti při opravě traktoru LKT (Lesní Kolový Traktor, známý také pod lidovým názvem \"Lakatoš\").",
     "Mechanik Luboš z Moravy si stěžuje zejména na konstrukční a inženýrské nedostatky tohoto stroje slovenské výroby.",
@@ -13,7 +13,7 @@
     "url": "https://aquasoup.com"
   },
   "color": "#0077c2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "lang": "cs",
   "rootUrl": "sounds/",
   "icons": [
@@ -158,11 +158,14 @@
   ],
   "references": [
     {
-      "name": "Originální video (2010)",
+      "name": "Originální video",
+      "year": 2010,
       "url": "https://www.youtube.com/watch?v=SiUz_akTmcY"
     },
     {
-      "name": "Luboš Lakatoš živě (2012) [raritní pokračování]",
+      "name": "Luboš Lakatoš živě",
+      "year": 2012,
+      "note": "raritní pokračování",
       "url": "https://www.youtube.com/watch?v=RqYo1nDudek"
     }
   ],
