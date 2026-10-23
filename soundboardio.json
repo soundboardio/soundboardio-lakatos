@@ -13,9 +13,9 @@
     "url": "https://aquasoup.com"
   },
   "color": "#0077c2",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "lang": "cs",
-  "rootUrl": "sounds/",
+  "rootUrl": "https://media.soundboardio.com/lakatos/",
   "icons": [
     {
       "src": "/icons/og-v2.jpg",
