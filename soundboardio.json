@@ -44,130 +44,161 @@
   "tiles": [
     {
       "name": "Abych mohl toto",
-      "filename": "abych-mohl-toto.mp3"
+      "filename": "abych-mohl-toto.mp3",
+      "transcript": "Abys mohl toto! A kurva toho! Do pičé!"
     },
     {
       "name": "Ani očko nenasadíš",
-      "filename": "ani-ocko-nenasadis.mp3"
+      "filename": "ani-ocko-nenasadis.mp3",
+      "transcript": "ani očko nenasadíš, protože to je u železa!"
     },
     {
       "name": "Ani za kokot",
-      "filename": "ani-za-kokot-vole.mp3"
+      "filename": "ani-za-kokot-vole.mp3",
+      "transcript": "ani za kokot, vole!"
     },
     {
       "name": "Banální věc",
-      "filename": "banalni-vec.mp3"
+      "filename": "banalni-vec.mp3",
+      "transcript": "Banální věc, která trvá, když hódně, možná 2, 3 minuty"
     },
     {
       "name": "Do piče",
-      "filename": "do-pice.mp3"
+      "filename": "do-pice.mp3",
+      "transcript": "Do piče!"
     },
     {
       "name": "Hajzli jedni",
-      "filename": "hajzli-jedni.mp3"
+      "filename": "hajzli-jedni.mp3",
+      "transcript": "Hajzli jedni!"
     },
     {
       "name": "Hoši, to je neuvěřitelné",
-      "filename": "hosi-to-je-neuveritelne.mp3"
+      "filename": "hosi-to-je-neuveritelne.mp3",
+      "transcript": "Hoši to je ne-u-vě-ři-tel-né…"
     },
     {
       "name": "Já se z toho musím pojebat",
-      "filename": "ja-se-z-toho-musim-pojebat.mp3"
+      "filename": "ja-se-z-toho-musim-pojebat.mp3",
+      "transcript": "Já se z toho musím pojebat"
     },
     {
       "name": "Já to mrdám",
-      "filename": "ja-to-mrdam.mp3"
+      "filename": "ja-to-mrdam.mp3",
+      "transcript": "Já se na to, já to nebudu dělat, já to mrdám."
     },
     {
       "name": "Já to nejdu dělat!",
-      "filename": "ja-to-nejdu-delat.mp3"
+      "filename": "ja-to-nejdu-delat.mp3",
+      "transcript": "Já to nejdu dělat! Né!"
     },
     {
       "name": "Jedinou pičovinku!",
-      "filename": "jedinou-picovinku.mp3"
+      "filename": "jedinou-picovinku.mp3",
+      "transcript": "To je vole nemožné! Tady jedinou pičovinku a musíš rozdělat celý traktor…"
     },
     {
       "name": "Jedu do piče z tadyma",
-      "filename": "jedu-do-pici-stadyma.mp3"
+      "filename": "jedu-do-pici-stadyma.mp3",
+      "transcript": "Hoši já jedu do piče z tadyma!"
     },
     {
       "name": "To neni možné",
-      "filename": "kurva-do-pice-to-neni-mozne.mp3"
+      "filename": "kurva-do-pice-to-neni-mozne.mp3",
+      "transcript": "To není možné! Kurvá! Ty pičó!"
     },
     {
       "name": "Kurva už",
-      "filename": "kurva-uz.mp3"
+      "filename": "kurva-uz.mp3",
+      "transcript": "Kurva uuž!"
     },
     {
       "name": "Kurva",
-      "filename": "kurva.mp3"
+      "filename": "kurva.mp3",
+      "transcript": "Kurvá!"
     },
     {
       "name": "Kurvy slovenské!",
       "filename": "kurvy-slovenske.mp3",
       "tags": [
         "new"
-      ]
+      ],
+      "transcript": "Vy kurvy slovenské! Zakurvené!"
     },
     {
       "name": "Ne, nenasadíš ho",
-      "filename": "ne-nenasadis-ho.mp3"
+      "filename": "ne-nenasadis-ho.mp3",
+      "transcript": "No ne nenasadíš ho, kdyby ses tam posral"
     },
     {
       "name": "Nebudu to dělat",
-      "filename": "nebudu-to-delat.mp3"
+      "filename": "nebudu-to-delat.mp3",
+      "transcript": "já nebudu to dělat!"
     },
     {
       "name": "Největší blbec na zeměkouli",
-      "filename": "nejvetsi-blbec-na-zemekouli.mp3"
+      "filename": "nejvetsi-blbec-na-zemekouli.mp3",
+      "transcript": "No když si největší blbec na zeměkouli, možná 3 minuty. Tady ty pičo celý kurva den!"
     },
     {
       "name": "Nenasadim",
-      "filename": "nenasadim.mp3"
+      "filename": "nenasadim.mp3",
+      "transcript": "já ho tu nenasadím…"
     },
     {
       "name": "Neřešitelný problém, hoši",
-      "filename": "neresitelny-problem-hosi.mp3"
+      "filename": "neresitelny-problem-hosi.mp3",
+      "transcript": "Neřešitelný problém hoši."
     },
     {
       "name": "Nevím jak",
-      "filename": "nevim-jak.mp3"
+      "filename": "nevim-jak.mp3",
+      "transcript": "nevím jak, nevím jak vole, tady je konec náš."
     },
     {
       "name": "Okamžitě zabít",
-      "filename": "okamzite-zabit-ty-kurvy.mp3"
+      "filename": "okamzite-zabit-ty-kurvy.mp3",
+      "transcript": "Okamžitě vole zabít ty kurvy"
     },
     {
       "name": "Past vedle pasti",
-      "filename": "past-vedle-pasti-pico.mp3"
+      "filename": "past-vedle-pasti-pico.mp3",
+      "transcript": "To je past vedle pasti, pičo."
     },
     {
       "name": "Počkej, kámo",
-      "filename": "pockej-kamo.mp3"
+      "filename": "pockej-kamo.mp3",
+      "transcript": "počkej kámo, trubku a hned ho jebni po hlavě, hned ho zabi."
     },
     {
       "name": "Tady musíš všechno rozdělat",
-      "filename": "tady-musis-vsechno-rozdelat.mp3"
+      "filename": "tady-musis-vsechno-rozdelat.mp3",
+      "transcript": "tady ty pičo všecko musíš rozdělat!"
     },
     {
       "name": "To je pičo nemožné",
-      "filename": "to-je-pico-nemozne.mp3"
+      "filename": "to-je-pico-nemozne.mp3",
+      "transcript": "To je pičo nemožné…"
     },
     {
       "name": "To není normální, kurva",
-      "filename": "to-neni-normalni-kurva.mp3"
+      "filename": "to-neni-normalni-kurva.mp3",
+      "transcript": "To není normální kurvá…"
     },
     {
       "name": "To sou nervy, ty pičo",
-      "filename": "to-sou-nervy-ty-pico.mp3"
+      "filename": "to-sou-nervy-ty-pico.mp3",
+      "transcript": "to sou nervy ty pičo"
     },
     {
       "name": "Tuto piču potřebuju utáhnout",
-      "filename": "tuto-picu-potrebuju-utahnout.mp3"
+      "filename": "tuto-picu-potrebuju-utahnout.mp3",
+      "transcript": "protože to je tam, to je tady toto, tady tuto piču potřebuju utáhnout."
     },
     {
       "name": "Zasrané, zamrdané",
-      "filename": "zasrane-zamrdane.mp3"
+      "filename": "zasrane-zamrdane.mp3",
+      "transcript": "zasrané, zamrdané…"
     }
   ],
   "references": [
@@ -190,7 +221,7 @@
     "– No tak povol, ale kurva pak ho to… No… Boha piča aj… aj s tyma kokotama. Ježišmarja vole to sou nervy. No to že je volny, ale jak ho utáhneme? <br />– No to právě teď sem ti to chtěl říct, jak ho utáhneš. <br />– No nijak, no, bude volný. <br />– Povolilo se to a je to v piči. A už to neutáhnem. Už to nikdy neutáhnem. Kristova hodina vole, toto je kurva stroj, ty pičo…. No… No… Ježismarja vole… Já musim jak piča sundat aj hlavu snadno z lakatoša… abych ty pičo vyměnil jednu trubku kurvá! Do pičé!",
     "To je vole nemožné! Tady jedinou pičovinku a musíš rozdělat celý traktor… celý… tak piča kolik to je kurva. Celý traktor rozdělat, ty pičo. Vy kurvy slovenské! Zakurvené!…",
     "– To uděláš jednu stranu, takže je to… <br />– Piča co to jé, kurvá. Ježišmarja, do piče! Kurva uuž!… Bože, piča, zkurvená, prašivá, do piče.",
-    "Banální věc, která trvá, když ho-dně, možná 2, 3 minuty, u jiných strojů. Dám, povolím jednu matku, druhou, šuch, šuch, šuch, hodím za sebe, šuch, šuch, šuch. No když si největší blbec na zeměkouli, možná 3 minuty. Tady ty pičo celý kurva den! Dopičé!…",
+    "Banální věc, která trvá, když hódně, možná 2, 3 minuty, u jiných strojů. Dám, povolím jednu matku, druhou, šuch, šuch, šuch, hodím za sebe, šuch, šuch, šuch. No když si největší blbec na zeměkouli, možná 3 minuty. Tady ty pičo celý kurva den! Dopičé!…",
     "Já se tam nedostanu tým jiným klíčem kurva. Já musím vyšrubovat půl hlavy, do piče. Ježišmarja kurva… Pičo vole! To je kurva nervy toto!",
     "Žádný stroj… Když uvidíš někdy, zkus se podívat kama dou trubky sikovací zbytku strojů na zeměkouli, ty pičo! Krom tohoto vole! Hajzli jedni!",
     "To je pičo nemožné… Eh… To, ne… To tam nedám, to… natahuju klíč. Tady je konec, to je hlava, to je utáhlé momenťákem, to je pičo… to normálně, to nemáš šancu, to je gola jak prase, vole, čím je to utáhlé a to nepovolím. Nepovolím, tým pádem se nedostanu na to. No, to… Kdepak, on se natahuje. To cítíš, že ten klíč se tahá a nic. To je darmo pokus, takže nevím jak, nevím jak vole, tady je konec náš. Já potřebuju utáhnout toto malý, tento malý žlutý ten. No a nedám, protože zavazí toto, zavazí ten šrub, zavazí všecko a já tam nedám klíč. Já tam nedám klíč, neutáhnu to hoši…",
