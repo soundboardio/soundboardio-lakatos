@@ -120,9 +120,7 @@
     {
       "name": "Kurvy slovenské!",
       "filename": "kurvy-slovenske.mp3",
-      "tags": [
-        "new"
-      ],
+      "tags": ["new"],
       "transcript": "Vy kurvy slovenské! Zakurvené!"
     },
     {
@@ -148,7 +146,7 @@
     {
       "name": "Neřešitelný problém, hoši",
       "filename": "neresitelny-problem-hosi.mp3",
-      "transcript": "Neřešitelný problém hoši."
+      "transcript": "Neřešitelný problém hoši. Já to nejdu dělat, já to nejdu dělat"
     },
     {
       "name": "Nevím jak",
