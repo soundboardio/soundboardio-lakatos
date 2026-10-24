@@ -1,33 +1,34 @@
 <p align="center">
-  <img src="/icons/icon.svg?sanitize=true" width="80">
-  <h1 align="center">SoundBoardio plugin: Lakatoš</h1>
+  <a href="https://soundboardio.com/app/lakatos/?utm_source=github&utm_medium=readme&utm_campaign=lakatos">
+    <img src="icons/og-v2.jpg" width="640" alt="Miluju svoji práci">
+  </a>
 </p>
 
-> First plugin for [SoundBoardio.com](https://soundboardio.com) app ever!
+# Miluju svoji práci
 
-## Creating Sound Board
+> Plugin for [SoundBoardio.com](https://soundboardio.com), a free GitHub-powered soundboard app.
 
-1. Create new repository on your Github, based on this repository.
-   - Make sure your repository is **public** and its name starts with `soundboardio-`
-   - Prepare your **sounds** (Github or self-hosted files)
-   - Create your **[`soundboardio.json`](https://github.com/AquaSoup/soundboardio-lakatos/blob/master/soundboardio.json) manifest**. Be creative. Choose name, description, colors and tiles, ...
-   - Prepare **icons** (you will need at least two icons if you want your app to be installable). [See this example](https://github.com/AquaSoup/soundboardio-lakatos/blob/master/soundboardio.json#L13)
-2. Now you can just open your shiny new app with your own url. It's working automagically.
+31 Czech sound quotes, playable in the browser and installable on your phone as an app.
 
-> If your repository is called https://github.com/ `aquasoup/soundboardio-lakatos` your SoundBoardio url will be https://soundboardio.com/ `app/aquasoup/lakatos`
+**▶ [Open the soundboard](https://soundboardio.com/app/lakatos/?utm_source=github&utm_medium=readme&utm_campaign=lakatos)**
 
-## Donation ❤️
+> Video z roku 2010 zachycuje strasti při opravě traktoru LKT (Lesní Kolový Traktor, známý také pod lidovým názvem "Lakatoš").
 
-This project and platform [SoundBoardio.com](soundboardio.com) is completely free and we're making it with love :)
+Board by [AquaSoup](https://aquasoup.com).
 
-If you want to help us, please consider [making a donation](https://github.com/sponsors/bartholomej) for some 🍺 or 🍵 ;)
+## Missing a quote?
+
+- [Suggest it](https://github.com/soundboardio/soundboardio-lakatos/issues/new?title=Quote%20suggestion&body=Quote%3A%0AWhere%20it%E2%80%99s%20from%20%28link%2C%20time%29%3A%0A) and say what it is and where it comes from (link, time).
+- Or send a pull request: drop the mp3 into `sounds/` and add a tile to [`soundboardio.json`](soundboardio.json). A transcript in `lyrics` follows [this format](https://github.com/soundboardio/soundboardio-developers#lyrics-transcript).
+
+## Want your own soundboard?
+
+All it takes is a public GitHub repository and one `soundboardio.json` file. No build, no deploy, free.
+
+Guide, generator and validator: **[soundboardio.com/create](https://soundboardio.com/create/?utm_source=github&utm_medium=readme&utm_campaign=lakatos)** (in Czech: [soundboardio.com/cs/create](https://soundboardio.com/cs/create/?utm_source=github&utm_medium=readme&utm_campaign=lakatos)).
 
 ## License
 
-Copyright &copy; 2021 [AquaSoup](http://aquasoup.com)
+The code and the manifest are [MIT licensed](LICENSE). The sounds belong to the authors of the original recording; this board is a fan tribute. Is something rotten? Open an issue or [contact us](https://soundboardio.com/about/).
 
-Proudly powered by nature 🗻, wind 💨, tea 🍵 and beer 🍺 ;)
-
-All contents are licensed under the [MIT license].
-
-[mit license]: LICENSE
+SoundBoardio is made by [AquaSoup](https://aquasoup.com) and is free. If it made you smile, [buy us a coffee](https://soundboardio.com/donate/?utm_source=github&utm_medium=readme&utm_campaign=lakatos) ☕
