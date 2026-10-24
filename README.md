@@ -14,7 +14,7 @@
 
 > Video z roku 2010 zachycuje strasti při opravě traktoru LKT (Lesní Kolový Traktor, známý také pod lidovým názvem "Lakatoš").
 
-Board by [AquaSoup](https://aquasoup.com).
+Board by [Sám Život](https://aquasoup.com).
 
 ## Missing a quote?
 
