@@ -3,11 +3,12 @@
   "shortName": "Lakatoš",
   "description": "Oprava lakatoše",
   "story": [
-    "Video z roku 2010 zachycuje strasti při opravě traktoru LKT (Lesní Kolový Traktor, známý také pod lidovým názvem \"Lakatoš\").",
-    "Mechanik Luboš z Moravy si stěžuje zejména na konstrukční a inženýrské nedostatky tohoto stroje slovenské výroby.",
-    "V této formě se jedná o relaxační aplikaci přispívající ke zlepšení psychické kondice zaměstnance.",
-    "Video je známé také pod názvem \"Oprava Lakatoše\", \"Opravář Lakatoše\", \"Oprava traktoru\" nebo zkrátka jen \"Lakatoš\"."
+    "Mechanik Luboš alias Luboš Lakatoš opravuje traktor LKT, video z roku 2010.",
+    "Video zachycuje strasti při opravě traktoru LKT (Lesní Kolový Traktor, známý také pod lidovým názvem \"Lakatoš\").",
+    "Luboš z Moravy si stěžuje zejména na konstrukční a inženýrské nedostatky tohoto stroje slovenské výroby.",
+    "V této formě se jedná o relaxační aplikaci přispívající ke zlepšení psychické kondice zaměstnance."
   ],
+  "tags": ["Luboš Lakatoš", "Opravář Lakatoše", "Oprava traktoru", "Lakatoš"],
   "author": {
     "name": "Sám Život",
     "url": "https://aquasoup.com"
